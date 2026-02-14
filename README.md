@@ -1,6 +1,6 @@
-# Formation energy predictions for doped TiO<sub>2</sub> monolayer
+# Formation energy predictions for 2D doped TiO<sub>2</sub> monolayer
 
-This repo is associated with the paper *Data-Efficient Machine Learning for predicting dopant formation energies in TiO<sub>2</sub> monolayer*, in which we construct a DFT dataset for doped TiO<sub>2</sub> monolayers and examine the machine learning performance in the small-data regime.
+This repo is associated with the paper *Data-Efficient Machine Learning for predicting dopant formation energies in TiO<sub>2</sub> monolayer*, in which we construct a DFT dataset for 2D doped TiO<sub>2</sub> monolayers and examine the machine learning performance in the small-data regime.
 
 Preprint is available in arXiv: xxx 
 
