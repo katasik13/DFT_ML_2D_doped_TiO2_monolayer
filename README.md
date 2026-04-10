@@ -7,7 +7,7 @@ Preprint is available in arXiv: xxx
 Manuscript under review (Feb 2026)
 
 ## Datasets
-The datasets lists Pt-doped (88 data points) and Ag-doped (14 data points) monolayer configurations by labels (Configuration_1, Configuration_2,...). Dopant concentration of each configuration is indicated, and the associated calculated propeties are provided.
+The datasets lists Pt-doped (84 data points) and Ag-doped (14 data points) monolayer configurations by labels (Configuration_1, Configuration_2,...). Dopant concentration of each configuration is indicated, and the associated calculated propeties are provided.
 The Pt-doped and Ag-doped datasets are available in separate CSV files. Feature descriptions are included here and can also be found in the Supplementary information accompanying the paper.
 
 Example of the supercell of a doped configuration, where the properties are calculated:
